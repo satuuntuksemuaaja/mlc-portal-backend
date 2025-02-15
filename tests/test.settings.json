@@ -1,0 +1,34 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_WORKER_RUNTIME": "node",
+    "AzureWebJobsStorage": "",
+    "ENV": "LOCAL",    
+    "KV_PP_DBUSER": "mlcppapp",
+    "KV_PP_DBPASSWORD": "uoLwDBpRE6vPuzRw1ATJ9YVYF8Z00Aoj2846J30kw0mgYg1ft0DAewyyWTWYhAotDz1Krm1pxQLZEARRAut1xxAszPPMKpH9jxRb1",
+    "KV_PP_HOST": "localhost",
+    "KV_PP_DATABASE": "mlcpp",
+    "KV_PP_DIALECT": "postgres",
+    "KV_PP_DATABASE_PORT": "5432",
+    "KV_PP_DBSCHEMA": "mlcppapp_test",
+    "POSTMARK_SENDER_EMAIL": "ryan.henderson@mylifecapsule.com",
+    "KV_POSTMARK_SERVER_API_TOKEN": "4c9c673c-2d10-47e1-8edd-c3ee7ce6de80",
+    "JWK_URI": "https://mlcppdevb2c.b2clogin.com/mlcppdevb2c.onmicrosoft.com/b2c_1_mlcppdevsignupin/discovery/v2.0/keys",
+    "ISS": "https://mlcppdevb2c.b2clogin.com/01052e1c-ddb7-4cb3-9483-ef2d7653a0cb/v2.0/",
+    "AUD": "eeaa4948-13ee-4bcd-b524-60856a0d83f5",
+    "BFF_URL": "http://loaclhost",
+    "KV_BFF_INBOUND_AUTH_TOKEN": "V6xH0yGAUmAFUqHIKYvCKzVwsJVLInvCS8x3WU3UPFjmQueU",
+    "KV_BFF_OUTBOUND_AUTH_HEADER_TOKEN": "GSFT5JsTII0RRh6EDNoLXGF6EbAtWaVFQacxHMs7cSuod2nxOcbQcuDqCGM1O1Qv9Qs1jqfMDLFSuhcJy8F3Wqjm0cikeUSmAClZ0NFmngdsbb5jNwMywntnvAx0GRwc",
+    "KV_MEECO_TOKEN.ACME": "xtdPXWbFYo-AbW5qxWGJ",
+    "KV_MEECO_KSTOKEN.ACME": "M-vGNWsJOLB8tRykV2t4E_5Y-UEKmY4N-UDiP3jGVJ8=.I3tja4MSHBT7rjdt_ejzHb0eW92gM9fXVSX1TA33Y-8=",
+    "KV_MEECO_SUBSCRIPTION": "24651cc96ff94b1b9751a0a1a5fc3de1",
+    "KV_MEECO_DEK.ACME": "G5bKMctnfyBBro97UdpyPbkyzjy4XUlqyNj8ChTQaFE=",
+    "KV_MEECO_KEK.ACME": "4jn_u3J887dG83RCW6DeQMGy8i3WV1dmPm6HFeaI7e8=",
+    "KV_MEECO_PDK.ACME": "XP2TEVcNhDBVz4vbJVnttEe5X8Ir4-d7oMRvMCmQ_k8=",
+    "KV_MEECO_PASS.ACME": "1.M1w4nB.2cn2aT-XXoHiX-Vra6Jf-9r17rb-StJ5BE-roTpw3-e7q3L9-ioQC6q-nhyUQn-mRG3ZF-ny94C"
+  },
+  "ConnectionStrings": {},
+  "Host": {
+    "CORS": "*"
+  }
+}

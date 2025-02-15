@@ -1,0 +1,5 @@
+-- Postgres user for prod
+CREATE USER USER_NAME WITH PASSWORD 'USER_PASSWORD';
+
+-- Prod database
+CREATE DATABASE DB_NAME;

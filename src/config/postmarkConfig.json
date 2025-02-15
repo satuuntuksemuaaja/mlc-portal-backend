@@ -1,0 +1,11 @@
+{   
+    "development": {
+        "POSTMARK_WELCOME_TEMPLATE_ID": 28966197
+    },
+    "staging": {
+        "POSTMARK_WELCOME_TEMPLATE_ID": 28966197
+    },
+    "production": {
+        "POSTMARK_WELCOME_TEMPLATE_ID": 28966197
+    }
+}

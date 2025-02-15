@@ -1,0 +1,22 @@
+{
+    "credentials": {
+        "tenantName": "ryanb2cpoc.onmicrosoft.com",
+        "clientID": "19699576-83e9-4450-a258-333b696c6ce9"
+    },
+    "policies": {
+        "policyName": "b2c_1_signup_signin"
+    },
+    "metadata": {
+        "b2cDomain": "ryanb2cpoc.b2clogin.com",
+        "authority": "login.microsoftonline.com",
+        "discovery": ".well-known/openid-configuration",
+        "version": "v2.0"
+    },
+    "settings": {
+        "isB2C": true,
+        "validateIssuer": false,
+        "passReqToCallback": false,
+        "loggingLevel": "info"
+    },
+    "scopes": ["19699576-83e9-4450-a258-333b696c6ce9"]
+}

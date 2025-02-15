@@ -1,0 +1,11 @@
+{
+  "bindings": [
+    {
+      "name": "invitationexpirytimer",
+      "type": "timerTrigger",
+      "direction": "in",
+      "schedule": "0 */15 * * * *"
+    }
+  ],
+  "scriptFile": "../dist/cron-job-invitationexpiry/index.js"
+}
